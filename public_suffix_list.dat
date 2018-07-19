@@ -7044,7 +7044,7 @@ org.zw
 
 
 // newGTLDs
-// List of new gTLDs imported from https://newgtlds.icann.org/newgtlds.csv on 2018-05-08T19:40:37Z
+// List of new gTLDs imported from https://newgtlds.icann.org/newgtlds.csv on 2018-07-19T16:38:20Z
 // This list is auto-generated, don't edit it manually.
 
 // aaa : 2015-02-26 American Automobile Association, Inc.
@@ -7095,7 +7095,7 @@ aco
 // active : 2014-05-01 Active Network, LLC
 active
 
-// actor : 2013-12-12 United TLD Holdco Ltd.
+// actor : 2013-12-12 Dog Beach, LLC
 actor
 
 // adac : 2015-07-16 Allgemeiner Deutscher Automobil-Club e.V. (ADAC)
@@ -7137,7 +7137,7 @@ aigo
 // airbus : 2015-07-30 Airbus S.A.S.
 airbus
 
-// airforce : 2014-03-06 United TLD Holdco Ltd.
+// airforce : 2014-03-06 Dog Beach, LLC
 airforce
 
 // airtel : 2014-10-24 Bharti Airtel Limited
@@ -7224,7 +7224,7 @@ aramco
 // archi : 2014-02-06 Afilias plc
 archi
 
-// army : 2014-03-06 United TLD Holdco Ltd.
+// army : 2014-03-06 Dog Beach, LLC
 army
 
 // art : 2016-03-24 UK Creative Ideas Limited
@@ -7242,10 +7242,10 @@ associates
 // athleta : 2015-07-30 The Gap, Inc.
 athleta
 
-// attorney : 2014-03-20 United TLD Holdco Ltd.
+// attorney : 2014-03-20 Dog Beach, LLC
 attorney
 
-// auction : 2014-03-20 United TLD Holdco Ltd.
+// auction : 2014-03-20 Dog Beach, LLC
 auction
 
 // audi : 2015-05-21 AUDI Aktiengesellschaft
@@ -7263,7 +7263,7 @@ auspost
 // author : 2014-12-18 Amazon Registry Services, Inc.
 author
 
-// auto : 2014-11-13 Cars Registry Limited
+// auto : 2014-11-13 Cars Registry Limited 
 auto
 
 // autos : 2014-01-09 DERAutos, LLC
@@ -7293,7 +7293,7 @@ banamex
 // bananarepublic : 2015-07-31 The Gap, Inc.
 bananarepublic
 
-// band : 2014-06-12 United TLD Holdco Ltd.
+// band : 2014-06-12 Dog Beach, LLC
 band
 
 // bank : 2014-09-25 fTLD Registry Services LLC
@@ -7461,7 +7461,7 @@ bot
 // boutique : 2013-11-14 Binky Moon, LLC
 boutique
 
-// box : 2015-11-12 NS1 Limited
+// box : 2015-11-12 .BOX INC.
 box
 
 // bradesco : 2014-12-18 Banco Bradesco S.A.
@@ -7545,7 +7545,7 @@ capital
 // capitalone : 2015-08-06 Capital One Financial Corporation
 capitalone
 
-// car : 2015-01-22 Cars Registry Limited
+// car : 2015-01-22 Cars Registry Limited 
 car
 
 // caravan : 2013-12-12 Caravan International, Inc.
@@ -7563,7 +7563,7 @@ career
 // careers : 2013-10-02 Binky Moon, LLC
 careers
 
-// cars : 2014-11-13 Cars Registry Limited
+// cars : 2014-11-13 Cars Registry Limited 
 cars
 
 // cartier : 2014-06-23 Richemont DNS Inc.
@@ -7626,7 +7626,7 @@ chanel
 // channel : 2014-05-08 Charleston Road Registry Inc.
 channel
 
-// charity : 2018-04-11 Corn Lake, LLC
+// charity : 2018-04-11 Binky Moon, LLC
 charity
 
 // chase : 2015-04-30 JPMorgan Chase Bank, National Association
@@ -7716,7 +7716,7 @@ coffee
 // college : 2014-01-16 XYZ.COM LLC
 college
 
-// cologne : 2014-02-05 punkt.wien GmbH
+// cologne : 2014-02-05 dotKoeln GmbH
 cologne
 
 // comcast : 2015-07-23 Comcast IP Holdings I, LLC
@@ -7746,7 +7746,7 @@ condos
 // construction : 2013-09-16 Binky Moon, LLC
 construction
 
-// consulting : 2013-12-05 United TLD Holdco Ltd.
+// consulting : 2013-12-05 Dog Beach, LLC
 consulting
 
 // contact : 2015-01-08 Top Level Spectrum, Inc.
@@ -7764,7 +7764,7 @@ cookingchannel
 // cool : 2013-11-14 Binky Moon, LLC
 cool
 
-// corsica : 2014-09-25 Collectivité de Corse
+// corsica : 2014-09-25 Collectivité Territoriale de Corse
 corsica
 
 // country : 2013-12-19 DotCountry LLC
@@ -7821,7 +7821,7 @@ dabur
 // dad : 2014-01-23 Charleston Road Registry Inc.
 dad
 
-// dance : 2013-10-24 United TLD Holdco Ltd.
+// dance : 2013-10-24 Dog Beach, LLC
 dance
 
 // data : 2016-06-02 Dish DBS Corporation
@@ -7854,7 +7854,7 @@ dealer
 // deals : 2014-05-22 Binky Moon, LLC
 deals
 
-// degree : 2014-03-06 United TLD Holdco Ltd.
+// degree : 2014-03-06 Dog Beach, LLC
 degree
 
 // delivery : 2014-09-11 Binky Moon, LLC
@@ -7869,13 +7869,13 @@ deloitte
 // delta : 2015-02-19 Delta Air Lines, Inc.
 delta
 
-// democrat : 2013-10-24 United TLD Holdco Ltd.
+// democrat : 2013-10-24 Dog Beach, LLC
 democrat
 
 // dental : 2014-03-20 Binky Moon, LLC
 dental
 
-// dentist : 2014-03-20 United TLD Holdco Ltd.
+// dentist : 2014-03-20 Dog Beach, LLC
 dentist
 
 // desi : 2013-11-14 Desi Networks LLC
@@ -7998,7 +7998,7 @@ emerck
 // energy : 2014-09-11 Binky Moon, LLC
 energy
 
-// engineer : 2014-03-06 United TLD Holdco Ltd.
+// engineer : 2014-03-06 Dog Beach, LLC
 engineer
 
 // engineering : 2014-03-06 Binky Moon, LLC
@@ -8073,10 +8073,10 @@ fairwinds
 // faith : 2014-11-20 dot Faith Limited
 faith
 
-// family : 2015-04-02 United TLD Holdco Ltd.
+// family : 2015-04-02 Dog Beach, LLC
 family
 
-// fan : 2014-03-06 Asiamix Digital Limited
+// fan : 2014-03-06 Dog Beach, LLC
 fan
 
 // fans : 2014-11-07 Asiamix Digital Limited
@@ -8184,7 +8184,7 @@ ford
 // forex : 2014-12-11 Dotforex Registry Limited
 forex
 
-// forsale : 2014-05-22 United TLD Holdco Ltd.
+// forsale : 2014-05-22 Dog Beach, LLC
 forsale
 
 // forum : 2015-04-02 Fegistry, LLC
@@ -8232,7 +8232,7 @@ fund
 // furniture : 2014-03-20 Binky Moon, LLC
 furniture
 
-// futbol : 2013-09-20 United TLD Holdco Ltd.
+// futbol : 2013-09-20 Dog Beach, LLC
 futbol
 
 // fyi : 2015-04-02 Binky Moon, LLC
@@ -8253,7 +8253,7 @@ gallup
 // game : 2015-05-28 Uniregistry, Corp.
 game
 
-// games : 2015-05-28 United TLD Holdco Ltd.
+// games : 2015-05-28 Dog Beach, LLC
 games
 
 // gap : 2015-07-31 The Gap, Inc.
@@ -8289,7 +8289,7 @@ gift
 // gifts : 2014-07-03 Binky Moon, LLC
 gifts
 
-// gives : 2014-03-06 United TLD Holdco Ltd.
+// gives : 2014-03-06 Dog Beach, LLC
 gives
 
 // giving : 2014-11-13 Giving Limited
@@ -8403,7 +8403,7 @@ hamburg
 // hangout : 2014-11-13 Charleston Road Registry Inc.
 hangout
 
-// haus : 2013-12-05 United TLD Holdco Ltd.
+// haus : 2013-12-05 Dog Beach, LLC
 haus
 
 // hbo : 2015-07-30 HBO Registry Services, Inc.
@@ -8550,10 +8550,10 @@ imdb
 // immo : 2014-07-10 Binky Moon, LLC
 immo
 
-// immobilien : 2013-11-07 United TLD Holdco Ltd.
+// immobilien : 2013-11-07 Dog Beach, LLC
 immobilien
 
-// inc : 2018-03-10 GTLD Limited
+// inc : 2018-03-10 Intercap Holdings Inc.
 inc
 
 // industries : 2013-12-05 Binky Moon, LLC
@@ -8673,7 +8673,7 @@ juegos
 // juniper : 2015-07-30 JUNIPER NETWORKS, INC.
 juniper
 
-// kaufen : 2013-11-07 United TLD Holdco Ltd.
+// kaufen : 2013-11-07 Dog Beach, LLC
 kaufen
 
 // kddi : 2014-09-12 KDDI CORPORATION
@@ -8709,7 +8709,7 @@ kitchen
 // kiwi : 2013-09-20 DOT KIWI LIMITED
 kiwi
 
-// koeln : 2014-01-09 punkt.wien GmbH
+// koeln : 2014-01-09 dotKoeln GmbH
 koeln
 
 // komatsu : 2015-01-08 Komatsu Ltd.
@@ -8778,10 +8778,10 @@ latino
 // latrobe : 2014-06-16 La Trobe University
 latrobe
 
-// law : 2015-01-22 Minds + Machines Group Limited
+// law : 2015-01-22 LW TLD Limited
 law
 
-// lawyer : 2014-03-20 United TLD Holdco Ltd.
+// lawyer : 2014-03-20 Dog Beach, LLC
 lawyer
 
 // lds : 2014-03-20 IRI Domain Management, LLC ("Applicant")
@@ -8850,7 +8850,7 @@ link
 // lipsy : 2015-06-25 Lipsy Ltd
 lipsy
 
-// live : 2014-12-04 United TLD Holdco Ltd.
+// live : 2014-12-04 Dog Beach, LLC
 live
 
 // living : 2015-07-30 Lifestyle Domain Holdings, Inc.
@@ -8943,7 +8943,7 @@ mango
 // map : 2016-06-09 Charleston Road Registry Inc.
 map
 
-// market : 2014-03-06 United TLD Holdco Ltd.
+// market : 2014-03-06 Dog Beach, LLC
 market
 
 // marketing : 2013-11-07 Binky Moon, LLC
@@ -9033,7 +9033,7 @@ mobile
 // mobily : 2014-12-18 GreenTech Consultancy Company W.L.L.
 mobily
 
-// moda : 2013-11-07 United TLD Holdco Ltd.
+// moda : 2013-11-07 Dog Beach, LLC
 moda
 
 // moe : 2013-11-13 Interlink Co., Ltd.
@@ -9060,7 +9060,7 @@ mopar
 // mormon : 2013-12-05 IRI Domain Management, LLC ("Applicant")
 mormon
 
-// mortgage : 2014-03-20 United TLD Holdco Ltd.
+// mortgage : 2014-03-20 Dog Beach, LLC
 mortgage
 
 // moscow : 2013-12-19 Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)
@@ -9108,7 +9108,7 @@ nationwide
 // natura : 2015-03-12 NATURA COSMÉTICOS S.A.
 natura
 
-// navy : 2014-03-06 United TLD Holdco Ltd.
+// navy : 2014-03-06 Dog Beach, LLC
 navy
 
 // nba : 2015-07-31 NBA REGISTRY, LLC
@@ -9135,7 +9135,7 @@ new
 // newholland : 2015-09-03 CNH Industrial N.V.
 newholland
 
-// news : 2014-12-18 United TLD Holdco Ltd.
+// news : 2014-12-18 Dog Beach, LLC
 news
 
 // next : 2015-06-18 Next plc
@@ -9165,7 +9165,7 @@ nike
 // nikon : 2015-05-21 NIKON CORPORATION
 nikon
 
-// ninja : 2013-11-07 United TLD Holdco Ltd.
+// ninja : 2013-11-07 Dog Beach, LLC
 ninja
 
 // nissan : 2014-03-27 NISSAN MOTOR CO., LTD.
@@ -9444,7 +9444,7 @@ pru
 // prudential : 2015-07-30 Prudential Financial, Inc.
 prudential
 
-// pub : 2013-12-12 United TLD Holdco Ltd.
+// pub : 2013-12-12 Dog Beach, LLC
 pub
 
 // pwc : 2015-10-29 PricewaterhouseCoopers LLP
@@ -9495,7 +9495,7 @@ redstone
 // redumbrella : 2015-03-26 Travelers TLD, LLC
 redumbrella
 
-// rehab : 2014-03-06 United TLD Holdco Ltd.
+// rehab : 2014-03-06 Dog Beach, LLC
 rehab
 
 // reise : 2014-03-13 Binky Moon, LLC
@@ -9525,7 +9525,7 @@ repair
 // report : 2013-12-05 Binky Moon, LLC
 report
 
-// republican : 2014-03-20 United TLD Holdco Ltd.
+// republican : 2014-03-20 Dog Beach, LLC
 republican
 
 // rest : 2013-12-19 Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable
@@ -9537,7 +9537,7 @@ restaurant
 // review : 2014-11-20 dot Review Limited
 review
 
-// reviews : 2013-09-13 United TLD Holdco Ltd.
+// reviews : 2013-09-13 Dog Beach, LLC
 reviews
 
 // rexroth : 2015-06-18 Robert Bosch GMBH
@@ -9561,7 +9561,7 @@ ril
 // rio : 2014-02-27 Empresa Municipal de Informática SA - IPLANRIO
 rio
 
-// rip : 2014-07-10 United TLD Holdco Ltd.
+// rip : 2014-07-10 Dog Beach, LLC
 rip
 
 // rmit : 2015-11-19 Royal Melbourne Institute of Technology
@@ -9570,7 +9570,7 @@ rmit
 // rocher : 2014-12-18 Ferrero Trading Lux S.A.
 rocher
 
-// rocks : 2013-11-14 United TLD Holdco Ltd.
+// rocks : 2013-11-14 Dog Beach, LLC
 rocks
 
 // rodeo : 2013-12-19 Minds + Machines Group Limited
@@ -9612,7 +9612,7 @@ safety
 // sakura : 2014-12-18 SAKURA Internet Inc.
 sakura
 
-// sale : 2014-10-16 United TLD Holdco Ltd.
+// sale : 2014-10-16 Dog Beach, LLC
 sale
 
 // salon : 2014-12-11 Binky Moon, LLC
@@ -9810,13 +9810,13 @@ sncf
 // soccer : 2015-03-26 Binky Moon, LLC
 soccer
 
-// social : 2013-11-07 United TLD Holdco Ltd.
+// social : 2013-11-07 Dog Beach, LLC
 social
 
 // softbank : 2015-07-02 SoftBank Corp.
 softbank
 
-// software : 2014-03-20 United TLD Holdco Ltd.
+// software : 2014-03-20 Dog Beach, LLC
 software
 
 // sohu : 2013-12-19 Sohu.com Limited
@@ -9897,7 +9897,7 @@ store
 // stream : 2016-01-08 dot Stream Limited
 stream
 
-// studio : 2015-02-11 United TLD Holdco Ltd.
+// studio : 2015-02-11 Dog Beach, LLC
 studio
 
 // study : 2014-12-11 OPEN UNIVERSITIES AUSTRALIA PTY LTD
@@ -10089,9 +10089,6 @@ trading
 // training : 2013-11-07 Binky Moon, LLC
 training
 
-// travel :  Dog Beach, LLC
-travel
-
 // travelchannel : 2015-07-02 Lifestyle Domain Holdings, Inc.
 travelchannel
 
@@ -10167,13 +10164,13 @@ verisign
 // versicherung : 2014-03-20 TLD-BOX Registrydienstleistungen GmbH
 versicherung
 
-// vet : 2014-03-06 United TLD Holdco Ltd.
+// vet : 2014-03-06 Dog Beach, LLC
 vet
 
 // viajes : 2013-10-17 Binky Moon, LLC
 viajes
 
-// video : 2014-10-16 United TLD Holdco Ltd.
+// video : 2014-10-16 Dog Beach, LLC
 video
 
 // vig : 2015-05-14 VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe
